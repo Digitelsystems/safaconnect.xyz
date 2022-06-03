@@ -3,9 +3,9 @@ cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 
 #Database Details
 db_host='173.82.65.242';
-db_user='safaconnect_safaconnect';
-db_pass='digi#0550013763';
-db_name='safaconnect_safaconnect';
+db_user='digitelp_safaconnect';
+db_pass='ME2HE2Di@';
+db_name='digitelp_safaconnect';
 
 install_require()
 {
