@@ -1,10 +1,10 @@
 #!/bin/bash
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
-HOST='209.159.152.66';
-USER='safaconnect_safaconnect';
-PASS='digi#0550013763';
-DBNAME='safaconnect_safaconnect';
+HOST='66.45.248.110';
+USER='digitelp_safaconnect';
+PASS='ME2HE2Di@';
+DBNAME='digitelp_safaconnect';
 
 install_require()
 {
